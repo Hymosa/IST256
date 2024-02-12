@@ -1,0 +1,20 @@
+.box {
+  width: 200px;
+  height: 500px;
+  border: 1px solid black;
+  padding: 10px;
+  margin-top: 80px;
+  float: right;
+  background-color: crimson;
+}
+  .header {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+    .img {
+      text-align: center;
+    }
+    .info {
+      display: inline-block;
+    }
